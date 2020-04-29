@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588109532 source:c:\users\csuftitan\documents\languages\c programming\login and registration system\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
